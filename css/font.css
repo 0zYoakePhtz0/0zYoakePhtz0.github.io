@@ -2,3 +2,8 @@
   font-family: 'lxgwFont';
   font-display: swap;
   src: url('/fonts/LXGWWenKaiMono-Regular.ttf') format("truetype"); }
+
+body {
+  font-family: 'lxgwFont';
+  font-size: 16px;
+}
